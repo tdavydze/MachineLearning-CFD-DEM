@@ -7,6 +7,7 @@ Zhou, Z. Y., Kuang, S. B., Chu, K. W., & Yu, A. B. (2010). Discrete particle sim
 
 Koch-Hill model (Hill, R.J., Koch, D.L. and Ladd, A.J.C. (2001) Moderate-Reynolds-Number Flows in Ordered and Random Arrays of Spheres. Journal of Fluid Mechanics, 448, 243-278.)
 
+Original calculation loops and equations are intentionally letf in, to easier follow the code. However, they can be removed for faster CPU speed.
 
 Implemented within CFDEMproject - https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC
 Base code: https://github.com/gosha20777/keras2cpp
