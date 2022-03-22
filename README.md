@@ -2,8 +2,7 @@
 Using pretrained ANN to predict drag forces during runtime in CFD-DEM. The model can be trained on a fine mesh case and used to improve accuracy of coarse mesh modeling. 
 This code was used in our JFM paper: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/highresolution-fluidparticle-interactions-a-machine-learning-approach/6C80409A3FA5427BDF3ADF1B26EFB224
 
-![GA](https://user-images.githubusercontent.com/53912571/159570035-65cdb02c-e8dd-4f14-88ec-6b22da078cf2.jpg)
-
+![GA_small](https://user-images.githubusercontent.com/53912571/159571088-783bb9e3-681d-42ef-a079-6fbcdb6636cf.jpg)
 
 Base drag force models are:
 
