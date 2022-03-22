@@ -1,5 +1,7 @@
 # keras2cfd-dem
 Using pretrained ANN to predict drag forces during runtime in CFD-DEM. The model can be trained on a fine mesh case and used to improve accuracy of coarse mesh modeling.
+This code was used in our paper: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/highresolution-fluidparticle-interactions-a-machine-learning-approach/6C80409A3FA5427BDF3ADF1B26EFB224
+
 Base drag force models are:
 
 Di Felice model (Di Felice, R. (1994). The voidage function for fluid-particle interaction systems. International Journal of Multiphase Flow, 20(1), 153-159.
