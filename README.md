@@ -1,4 +1,4 @@
-# keras2cfd-dem
+# MachineLearning-CFD-DEM
 Using pretrained ANN to predict drag forces during runtime in CFD-DEM. The model can be trained on a fine mesh case and used to improve accuracy of coarse mesh modeling. 
 This code was used in our JFM paper: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/highresolution-fluidparticle-interactions-a-machine-learning-approach/6C80409A3FA5427BDF3ADF1B26EFB224
 
