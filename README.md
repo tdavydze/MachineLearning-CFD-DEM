@@ -14,4 +14,4 @@ Koch-Hill model (Hill, R.J., Koch, D.L. and Ladd, A.J.C. (2001) Moderate-Reynold
 Original calculation loops and equations are intentionally letf in, to easier follow the code. However, they can be removed for faster CPU speed.
 
 Implemented within CFDEMproject - https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC
-Base code: https://github.com/gosha20777/keras2cpp
+
